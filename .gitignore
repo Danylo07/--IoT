@@ -1,0 +1,22 @@
+# Flutter / Dart
+.dart_tool/
+.packages
+.pub-cache/
+.pub/
+build/
+.flutter-plugins
+.flutter-plugins-dependencies
+
+# IDE
+.idea/
+.vscode/
+*.iml
+
+# Платформи
+**/Pods/
+**/local.properties
+**/.gradle/
+**/GeneratedPluginRegistrant.*
+
+# Допоміжний скрипт (не входить до репозиторію)
+make_commits.sh

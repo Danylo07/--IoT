@@ -1,0 +1,5 @@
+home/livingroom/sensor1/temperature 22.5
+home/livingroom/sensor1/humidity 48
+home/livingroom/sensor1/temperature 99.9 (SPOOFED by attacker)
+home/livingroom/light1/set OFF
+home/livingroom/light1/set ON (attacker toggled device)
